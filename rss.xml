@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Firework]]></title>
+        <description><![CDATA[Firework]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 16:03:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><h2>Born from technology and moved by it!</h2><p>Firework was literally a finding. In a tech event, a US company found what they were looking for: web development experts who wanted to start a business. From this, Firework was born.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e293500de9e8605e00b8362120420fb11a93c033.jpg"></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">abe7fe3c-ce1a-4c26-9f30-5b9e246d7e63</guid>
+            <pubDate>Mon, 14 Mar 2016 16:03:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
